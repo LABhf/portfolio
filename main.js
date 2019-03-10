@@ -1,4 +1,4 @@
-$('div').css('background', 'yellow');
+$('div').css('background', 'red');
 
 
 
